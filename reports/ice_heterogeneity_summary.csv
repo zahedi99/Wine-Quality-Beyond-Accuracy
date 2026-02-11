@@ -1,0 +1,52 @@
+feature,class,mean_ice_std
+alc_sulphates,high,0.2842581881009342
+residual sugar,medium,0.28414931098431934
+nonfree_sulfur,medium,0.2762592637595749
+density_alcohol,medium,0.2653528976046021
+citric_fixed_ratio,medium,0.2594005292905094
+free sulfur dioxide,high,0.25541656759218084
+pH,high,0.254803428640994
+residual sugar,high,0.251862662391173
+density_alcohol,high,0.2506402294185849
+fixed acidity,medium,0.249702941174846
+density,high,0.23195461117225585
+nonfree_sulfur,high,0.22996838085452787
+citric acid,high,0.22947245512935938
+alcohol,medium,0.22710749506656897
+volatile acidity,medium,0.22455906115951554
+sulphates,medium,0.22158869902906292
+pH,medium,0.21952701011621195
+alcohol,high,0.21798455756227547
+density,medium,0.21029225007584765
+sulphur_ratio,medium,0.21023066957364742
+sulphur_ratio,high,0.20991094077146782
+citric acid,medium,0.2057409124137392
+acid_ratio,high,0.20496059293567587
+total sulfur dioxide,high,0.20115393715265828
+free sulfur dioxide,medium,0.20102277480872838
+volatile acidity,high,0.20096996202817835
+citric_fixed_ratio,high,0.19282813746285302
+acid_ratio,medium,0.1895889552470546
+sulphates,high,0.1872512418664937
+alc_sulphates,medium,0.1851194405324023
+fixed acidity,high,0.1782214970665635
+total sulfur dioxide,medium,0.1715245439696566
+chlorides,medium,0.1556575174208536
+chlorides,high,0.15245824500864522
+volatile acidity,low,0.10801387002320592
+fixed acidity,low,0.09642784016442311
+density,low,0.09183105283330359
+total sulfur dioxide,low,0.09059520761500446
+alc_sulphates,low,0.08696265884458575
+pH,low,0.08276088450287077
+citric_fixed_ratio,low,0.07616998620509716
+sulphates,low,0.07451090158147362
+residual sugar,low,0.07357616496613446
+acid_ratio,low,0.07212785524957124
+alcohol,low,0.07122645206041066
+density_alcohol,low,0.06248307366768228
+chlorides,low,0.061726274400250435
+free sulfur dioxide,low,0.05524512578795515
+sulphur_ratio,low,0.04691441256458147
+nonfree_sulfur,low,0.043183803230956795
+citric acid,low,0.0417275220362715
