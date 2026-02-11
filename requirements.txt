@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+shap
+scipy
+jupyter
+notebook
+ipykernel
+pytorch-tabnet
+torch
+imbalanced-learn
