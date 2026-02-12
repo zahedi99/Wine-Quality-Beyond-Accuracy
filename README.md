@@ -91,5 +91,5 @@ If you reference this work, please cite the included report:
 ## Author
 
 **Parsa Zahedi**
-- GitHub: @zahedi99 (add link in your profile)
-- LinkedIn: linkedin.com/in/parsa-zahedi
+
+- LinkedIn: https://www.linkedin.com/in/parsa-zahedi/
